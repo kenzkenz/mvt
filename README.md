@@ -1,9 +1,5 @@
 # mvt
 
-## 全国河川中心線
-### url
-### zoom
-
 | 背景名 | URL | zoom | |
 ----|----|----|---- 
 | 全国河川中心線 | https://hfu.github.io/rvrcl-vt/{z}/{x}/{y}.mvt | 〜14 ||
