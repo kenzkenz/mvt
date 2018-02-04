@@ -6,9 +6,9 @@
 
 | 背景名 | URL | zoom | |
 ----|----|----|---- 
-| 全国河川中心線 | https://hfu.github.io/rvrcl-vt/{z}/{x}/{y}.mvt | 〜14 |fuさん|
-| 全国道路中心線 | https://hfu.github.io/rdcl-vt/{z}/{x}/{y}.mvt | 〜14 |fuさん|
-| osmmvt | https://hfu.github.io/jp1710_{z}/{x}/{y}.mvt | 〜14 |fuさん|
+| 全国河川中心線 | https://hfu.github.io/rvrcl-vt/{z}/{x}/{y}.mvt | 〜14 ||
+| 全国道路中心線 | https://hfu.github.io/rdcl-vt/{z}/{x}/{y}.mvt | 〜14 ||
+| osmmvt | https://hfu.github.io/jp1710_{z}/{x}/{y}.mvt | 〜14 ||
 | 全国海岸線 | https://kenzkenz.github.io/kaigansen_mvt/{z}/{x}/{y}.mvt | 〜14 ||
 | H27全国小地域人口等 | https://kenzkenz.github.io/h27syouchiiki_mvt/{z}/{x}/{y}.mvt | 〜15 ||
 | 500Mメッシュ人口 | https://kenzkenz.github.io/500mesh_plus/{z}/{x}/{y}.mvt | 〜15 ||
